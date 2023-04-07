@@ -1,6 +1,6 @@
 Hi there, I'm Cherry! :cherries:
 
-Enthusiastic problem-solver and constant learner with a passion for software engineering, skilled in React / Redux, Python, JavaScript, Node, Express, Flask, Sqlite3 and excited to tackle new challenges. Experienced in both back-end and front-end development. As a previous regulatory and compliance professional for over 6 years, I have a keen eye for detail, strong project management skills, and the ability to navigate complex systems with ease.
+Enthusiastic problem-solver and constant learner with a passion for software engineering, skilled in React / Redux, Python, JavaScript, Node, Express, Flask, Sqlite3 and excited to tackle new challenges. Experienced in both back-end and front-end development. I have a keen eye for detail, strong project management skills, and the ability to navigate complex systems with ease.
 
 - 🔭 I’m currently working on my projects
 - 💬 Ask me about Anything
